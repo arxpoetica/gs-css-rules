@@ -1,6 +1,6 @@
 # Layouts
 
-![](images/layouts.png)
+![](https://raw.githubusercontent.com/arxpoetica/gs-css-rules/master/img/layouts.png)
 
 ## Avoid positioning properties
 Components should be made in a way that they're reusable in different contexts. Avoid putting these properties in components:

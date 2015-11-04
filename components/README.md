@@ -3,7 +3,7 @@ Components
 
 Think in components. Consider of each piece of your UI as an individual "component."
 
-![](images/component-example.png)
+![](https://raw.githubusercontent.com/arxpoetica/gs-css-rules/master/img/component-example.png)
 
 ## Naming components
 Components will be named with **at least two words**, separated by a dash. Examples of a component:

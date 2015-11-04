@@ -2,7 +2,7 @@
 
 Components may have variants. Elements may have variants, too.
 
-![](images/component-modifiers.png)
+![](https://raw.githubusercontent.com/arxpoetica/gs-css-rules/master/img/component-modifiers.png)
 
 <br>
 

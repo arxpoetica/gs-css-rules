@@ -2,7 +2,7 @@
 
 Elements are things inside your component.
 
-![](images/component-elements.png)
+![](https://raw.githubusercontent.com/arxpoetica/gs-css-rules/master/img/component-elements.png)
 
 ## Naming elements
 Each component may have elements. They should have classes that are only **one word**.

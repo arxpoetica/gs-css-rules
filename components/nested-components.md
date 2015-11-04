@@ -1,6 +1,6 @@
 # Nested components
 
-![](images/component-nesting.png)
+![](https://raw.githubusercontent.com/arxpoetica/gs-css-rules/master/img/component-nesting.png)
 
 ```html
 <div class='article-link'>
