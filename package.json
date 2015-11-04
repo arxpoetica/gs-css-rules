@@ -1,0 +1,22 @@
+{
+  "name": "gs-css-rules",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arxpoetica/gs-css-rules.git"
+  },
+  "author": "Robert L. Hall <@arxpoetica>",
+  "bugs": {
+    "url": "https://github.com/arxpoetica/gs-css-rules/issues"
+  },
+  "homepage": "https://github.com/arxpoetica/gs-css-rules#readme",
+  "devDependencies": {
+  }
+}
