@@ -1,6 +1,7 @@
 # Summary
 
 * [CSS Rules (introduction)](README.md)
+* [Basics](basics/README.md)
 * [Components](components/README.md)
 	* [Elements](components/elements.md)
 	* [Variants](components/variants.md)

@@ -20,7 +20,7 @@ Any CSS greater than 1000 lines will get unwieldy. You'll eventually run into th
 
 **GS CSS Rules** is an attempt to make sense of all these. It is not a framework. It's simply a set of ideas to guide your process of building maintainable CSS for any modern website or application.
 
-Let's get started by learning about components.
-[Continue →](components/components.md)
+Let's get started by learning the basics.
+[Continue →](basics/README.md)
 
 **GS CSS Rules** © 2015+, Robert L Hall.
